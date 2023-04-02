@@ -1,11 +1,11 @@
 {
-    "manifest_version": 3,
-    "name": "Aggressive LoFi",
-    "description": "Chill beats aren't your thing? Try a more aggressive alternative to focus.",
+    "manifest_version": 1,
+    "name": "Dale",
+    "description": "AAAAAAAAAAAaaaaaa.",
     "version": "1.0",
     "icons":
     {
-        "512": "icon_512.png"
+        "512": ".png"
     },
     "developer":
     {
